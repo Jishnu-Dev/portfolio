@@ -11795,7 +11795,7 @@ textarea.form-control {
 }
 
 .ftco-section {
-  padding: 7em 0;
+  padding-top: 7em 0;
   position: relative;
 }
 @media (max-width: 767.98px) {
@@ -11819,7 +11819,7 @@ textarea.form-control {
 .ftco-footer {
   font-size: 16px;
   background: #000000;
-  padding: 7em 0;
+  padding-top: 7em;
   z-index: 0;
 }
 .ftco-footer .ftco-footer-logo {
